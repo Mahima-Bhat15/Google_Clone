@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../3_MiniProj/Weather"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FinalMiniProject"
+	}
+}
